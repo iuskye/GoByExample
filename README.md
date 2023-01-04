@@ -11,4 +11,5 @@
 - [Constant](code/constant.go)
 - [For](code/for.go)
 - [If/Else](code/if-else.go)
+- [Switch](code/switch.go)
 - 

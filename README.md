@@ -1,6 +1,7 @@
 # Go By Example
 
 - [Go By Example](https://gobyexample.com/)
+- [Go By Example Chinese](https://gobyexample-cn.github.io/)
 
 # Content
 

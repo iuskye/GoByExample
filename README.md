@@ -12,4 +12,5 @@
 - [For](code/for/for.go)
 - [If/Else](code/if-else/if-else.go)
 - [Switch](code/switch/switch.go)
+- [Arrays](code/arrays/arrays.go)
 - 

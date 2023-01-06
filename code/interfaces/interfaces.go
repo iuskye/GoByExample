@@ -15,7 +15,6 @@ type geometry interface {
 type rect struct {
 	width, height float64
 }
-
 type circle struct {
 	radius float64
 }
@@ -24,7 +23,6 @@ type circle struct {
 func (r rect) area() float64 {
 	return r.width * r.height
 }
-
 func (r rect) perim() float64 {
 	return 2*r.width + 2*r.height
 }
@@ -32,6 +30,10 @@ func (r rect) perim() float64 {
 // circle 的实现。
 func (c circle) area() float64 {
 	return math.Pi * c.radius * c.radius
+}
+
+func (c circle) perim() float64 {
+	return 2 * math.Pi * c.radius
 }
 
 // 如果一个变量实现了某个接口，我们就可以调用指定接口中的方法。这儿有一个通用的 measure 函数，

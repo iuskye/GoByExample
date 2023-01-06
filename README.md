@@ -22,4 +22,7 @@
 - [Closures | 闭包](code/closures/closures.go)
 - [Recursion | 递归](code/recursion/recursion.go)
 - [String and Runes](code/strings-and-runes/strings-and-runes.go)
+- [Structs](code/structs/structs.go)
+- [Methods](code/methods/methods.go)
+- [Interface](code/interfaces/interfaces.go)
 - 

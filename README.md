@@ -25,4 +25,6 @@
 - [Structs](code/structs/structs.go)
 - [Methods](code/methods/methods.go)
 - [Interface](code/interfaces/interfaces.go)
+- [Embedding](code/embedding/embedding.go)
+- [Generics](code/generics/generics.go)
 - 

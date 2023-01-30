@@ -29,4 +29,6 @@
 - [Generics | 泛型](code/generics/generics.go)
 - [Errors | 错误](code/errors/errors.go)
 - [Goroutines | 协程](code/goroutines/goroutines.go)
+- [Channels | 协程](code/channels/channles.go)
+- [Channel Buffering | 通道缓冲](code/channel-buffering/channel-buffering.go)
 - 

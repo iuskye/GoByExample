@@ -31,4 +31,9 @@
 - [Goroutines | 协程](code/goroutines/goroutines.go)
 - [Channels | 协程](code/channels/channles.go)
 - [Channel Buffering | 通道缓冲](code/channel-buffering/channel-buffering.go)
+- [Channel Synchronization | 通道同步](code/channel-directioins/channel-directioins.go)
+- [Channel Directions | 通道方向](code/channel-directioins/channel-directioins.go)
+- [Channel Select | 通道选择器](code/select/select.go)
+- [Timeouts | 超时处理](code/timeouts/timeouts.go)
+- [Non blocking channel operations | 非阻塞通道操作](code/non-blocking-channel-operations/non-blocking-channel-operations.go)
 - 
